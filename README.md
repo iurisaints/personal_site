@@ -1,4 +1,1 @@
-## https://www.filipedeschamps.com.br
-O que acredito, separado em rápidos tópicos.
-
-![image](https://www.filipedeschamps.com.br/images/filipe-deschamps-thumb.jpg)
+Site Pessoal como base para você criar o seu próprio. Funciona exatamente como um curriculum vitae para você editar.
